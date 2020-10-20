@@ -15,14 +15,25 @@ a:active {
     color: #fb0e02;
 }
 
+.didyouknow
+{
+    font-style: italic;
+}
+
+.didyouknow
+{
+    <a href="https://www.olympicchannel.com/en/stories/features/detail/how-to-play-volleyball/">link</a>;
+}
+
 
 body > header, body > footer {
-    background-color: #555555;
+    background-color: blue;
     height: 50px;
     padding: 20px;
     color: white;
-}
 
+
+}
 .wrap {
     margin: 20px;
 }
